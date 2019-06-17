@@ -1,0 +1,3 @@
+/home/dibya/GATE/src/CMakeFiles/edit_cache.dir
+/home/dibya/GATE/src/CMakeFiles/rebuild_cache.dir
+/home/dibya/GATE/src/CMakeFiles/gd.dir
